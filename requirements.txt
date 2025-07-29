@@ -4,3 +4,4 @@ opencv-python-headless
 numpy>=1.23,<2.0
 python-multipart
 deepface
+tf_keras
